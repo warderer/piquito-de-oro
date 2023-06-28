@@ -1,12 +1,15 @@
 import './App.css'
+import { BrowserRouter } from 'react-router-dom'
 import Header from './components/Header'
-import Home from './pages/Home'
+import RoutesIndex from './routes/RoutesIndex'
 
 function App () {
   return (
     <>
-      <Header />
-      <Home />
+      <BrowserRouter>
+        <Header />
+        <RoutesIndex />
+      </BrowserRouter>
     </>
   )
 }
