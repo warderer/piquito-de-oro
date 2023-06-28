@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import ProductCard from '../components/productCard'
 
 const Home = () => {
   const myRequest = new Request('../assets/lentes.json')
@@ -11,7 +12,15 @@ const Home = () => {
   }, [])
 
   return (
-    <h1>Home</h1>
+    <div className='container'>
+      <div className='row'>
+        {
+            data.map((item) => (
+              <ProductCard key={item.id} {...item} />
+            ))
+        }
+      </div>
+    </div>
   )
 }
 export default Home
