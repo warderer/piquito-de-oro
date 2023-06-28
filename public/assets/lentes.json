@@ -4,139 +4,159 @@
        "title":"KAYL",
        "description":"No puedoo con lo precioso que es este modelo✨ y ¡tienen una calidad de 10!. Recuerda que: los accesorios no tienen género darling😎",
        "url":"1-KAYL.jpg",
-       "price":88
+       "price":88,
+       "quantity": 10
     },
     {
        "id":"2",
        "title":"LOA",
        "description":"Se integra a la familia este nuevo bbsaurio!, LOA es un bello modelito con tamaño medio, ¡combinable con todo!🤍",
        "url":"2-LOA.jpg",
-       "price":75
+       "price":75,
+       "quantity": 5
     },
     {
        "id":"3",
        "title":"ZAHAR",
        "description":"Zahar en este azul intenso es taaan precioso! 😍",
        "url":"3-ZAHAR.jpg",
-       "price": 75
+       "price": 75,
+       "quantity": 0
     },
     {
        "id":"4",
        "title":"HALI",
        "description":"¡Precioso modelo para rockearlos con mil y un outfit! ✨",
        "url":"4-HALI.jpg",
-       "price": 85
+       "price": 85,
+       "quantity": 6
     },
     {
        "id":"5",
        "title":"KONI BEIGE",
        "description":"Hermoso modelito súper GLAM😍",
        "url":"5-KONI-Beige.jpg",
-       "price": 85
+       "price": 85,
+       "quantity": 12
     },
     {
        "id":"6",
        "title":"LILO",
        "description":"No sólo combinan con toodo sino que también protegen bien tus ojitos✨",
        "url":"6-LILO.jpg",
-       "price": 85
+       "price": 85,
+       "quantity": 2
     },
     {
        "id":"7",
        "title":"KONI B&W",
        "description":"Por supuesto que debían volver estas bellezas en blanco y ahoraa lo tenemos igual en negro! ✨😍",
        "url":"7-KONI-B&W.jpg",
-       "price":85
+       "price":85,
+       "quantity": 0
     },
     {
        "id":"8",
        "title":"LANI BEIGE",
        "description":"Bbsaurios que no sólo puedes combinar de mil maneras sino que igual protegen súper bien tus ojitos💙",
        "url":"8-LANI-Beige.jpg",
-       "price":85
+       "price":85,
+       "quantity": 10
     },
     {
        "id":"9",
        "title":"LANI CHAMPAGNE",
        "description":"Se añaden más variaciones del modelito LANI!, todo bello todo bonito🙊🤍",
        "url":"9-LANI-Champagne.jpg",
-       "price":85
+       "price":85,
+       "quantity": 5
     },
     {
        "id":"10",
        "title":"LIKO",
        "description":"Tenemos de regreso este precioso modelo! Dupes Celine✨",
        "url":"10-LIKO.jpg",
-       "price":88
+       "price":88,
+       "quantity": 7
     },
     {
        "id":"11",
        "title":"NIKAI",
        "description":"El modelito más galáctico que hemos traído a PD😱🖤 NIKAI👽",
        "url":"11-NIKAI.jpg",
-       "price":85
+       "price":85,
+       "quantity": 10
     },
     {
        "id":"12",
        "title":"TYLER",
        "description":"Livin' life in RED✨ 0% basic-100% cool👽",
        "url":"12-TYLER.jpg",
-       "price":85
+       "price":85,
+       "quantity": 0
     },
     {
        "id":"13",
        "title":"VIKA",
        "description":"¡Nuevo modelito!, cubren tus ojitos perfectamente del solaazo y le dan un toque de glamour a tus ofniss😉💥",
        "url":"13-VIKA.jpg",
-       "price":88
+       "price":88,
+       "quantity": 10
     },
     {
        "id":"14",
        "title":"KAI",
        "description":"Claaaro que debíamos traer de nuevo este modelito tan top✨😍",
        "url":"14-KAI.jpg",
-       "price":88
+       "price":88,
+       "quantity": 3
     },
     {
        "id":"15",
        "title":"KAI BLANCO",
        "description":"Que elegancia la de Francia 🥳🐄",
        "url":"15-KAI-Blanco.jpg",
-       "price":88
+       "price":88,
+       "quantity": 2
     },
     {
        "id":"16",
        "title":"MAHI",
        "description":"Apto para traer toda la buena actitud encima.✅🤭      Les presentamos a MAHI, ¡un modelito precioso y muuy divertido! 😍✨",
        "url":"16-MAHI.jpg",
-       "price":78
+       "price":78,
+       "quantity": 0
     },
     {
        "id":"17",
        "title":"KALE",
        "description":"Precioso modelito chunky y divertido😜😍",
        "url":"17-KALE.jpg",
-       "price":50
+       "price":50,
+       "quantity": 10
     },
     {
        "id":"18",
        "title":"BANE",
        "description":"Por aquí estamos obsessed con el poder que emana este bbsaurio😎🤍",
        "url":"18-BANE.jpg",
-       "price":85
+       "price":85,
+       "quantity": 7
     },
     {
        "id":"19",
        "title":"KIAN",
        "description":"¡Lucen divinos! Tienen un tamaño medio✨, ni grandes ni pequeños🤭",
        "url":"19-KIAN.jpg",
-       "price":95
+       "price":95,
+       "quantity": 3
     },
     {
        "id":"20",
        "title":"NOHE",
        "description":"Modelito hermoso y exquisito para darle un toque + top a tus outfits sin dejar de proteger tus ojitos🥰",
        "url":"20-NOHE.jpg",
-       "price":78
+       "price":78,
+       "quantity": 0
     }
  ]
