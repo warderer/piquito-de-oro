@@ -13,7 +13,7 @@ const Header = () => {
 
           <ul className='nav nav-pills'>
             <li className='nav-item'>
-              <NavLink to='/' className='nav-link active' aria-current='page'>Inicio</NavLink>
+              <NavLink to='/' className='nav-link text-dark' aria-current='page'>Inicio</NavLink>
             </li>
             <li className='nav-item'>
               <NavLink to='/about' className='nav-link text-dark'>Acerca de</NavLink>
