@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import ProductCard from '../components/productCard'
+import ProductCard from '../components/ProductCard'
 import SearchBar from '../components/SearchBar'
 
 const Home = () => {
