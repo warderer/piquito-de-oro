@@ -6,7 +6,7 @@ import RoutesIndex from './routes/RoutesIndex'
 function App () {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename={import.meta.env.DEV ? '/' : '/piquito-de-oro/'}>
         <Header />
         <RoutesIndex />
       </BrowserRouter>
